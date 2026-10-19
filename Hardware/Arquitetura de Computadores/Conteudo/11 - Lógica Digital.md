@@ -15,6 +15,7 @@ Nela, utilizamos variáveis que podem receber os valores $0$ ou $1$ (FALSO e VER
 | **AND**     | $A \text{ AND } B$ | $A \cdot B$ | Produz o valor verdadeiro ($1$), se os dois lados forem verdadeiro.         |
 | **OR** <br> | $A \text{ OR } B$  | $A + B$     | Produz o valor verdadeiro ($1$), se pelo menos um dos lados for verdadeiro. |
 | **NOT**     | $\text{NOT }A$     | $\bar{A}$   | Inverte o valor da variável.                                                |
+
 > OBS: $A \cdot B = AB$.
 
 Como exemplo, tome $D = A + (\bar{B} \cdot C)$. Se $D = 1$, $A = 1$ ou $B = 0$ e $C = 1$. Caso contrário, $D = 0$. Além disso, a ordem de precedência é:
@@ -31,6 +32,7 @@ Existem outras operações derivadas, são elas:
 | **XOR**       | $A \text{ XOR } B$  | $A \oplus B$           | Produz o valor verdadeiro ($1$), se um e apenas um dos lados for verdadeiro. |
 | **NAND** <br> | $A \text{ NAND } B$ | $\overline{A \cdot B}$ | É o complemento do **AND**.                                                  |
 | **NOR**       | $A \text{ NOR } B$  | $\overline{A + B}$     | É o complemento do **OR**.                                                   |
+
 Abaixo, temos algumas tabelas resumo da tabela verdade, operações estendidas e identidades básica da álgebra booleana.
 
 <div align="center">
@@ -51,6 +53,7 @@ Abaixo, temos algumas tabelas resumo da tabela verdade, operações estendidas e
   <em>Figura 3: Identidades básicas.</em>
 </div>
 ---
+
 # 2. Portas Lógicas
 
 São os blocos fundamentais da construção de um **circuitos lógicos**, pois implementam as funções lógicas através da combinação e interconexão de portas lógicas. *Por definição*, *uma **porta lógica** é um circuito que produz um sinal de saída aplicando uma operação da álgebra booleana em seus sinais de entrada*. Abaixo, vemos a simbologia dessas portas lógicas, notação matemática e a tabela verdade.
