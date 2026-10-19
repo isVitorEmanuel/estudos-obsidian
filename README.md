@@ -104,3 +104,18 @@ Abaixo temos os grupos de conteúdos:
 - [[Machine Learning]]
 - [[Redes]] 
 - [[Requisitos e Processos de Software]] 
+
+# Cronograma
+
+Meu cronograma de estudos atualmente.
+
+| Dia     | Bloco principal              | Bloco secundário            | Todo dia           |
+| ------- | ---------------------------- | --------------------------- | ------------------ |
+| Segunda | Python                       | Banco de Dados              | Inglês + Português |
+| Terça   | Java                         | Engenharia de Software      | Inglês + Português |
+| Quarta  | Python                       | Arquitetura de Computadores | Inglês + Português |
+| Quinta  | Redes de Computadores        | HTML e CSS                  | Inglês + Português |
+| Sexta   | Java + SOLID e Boas Práticas | Matemática Elementar        | Inglês + Português |
+| Sábado  | Arquitetura de Computadores  | Banco de Dados              | Inglês + Português |
+| Domingo | Redes de Computadores        | Docker e Kubernetes         | Inglês + Português |
+

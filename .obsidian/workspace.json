@@ -10,6 +10,7 @@
           {
             "id": "dde5426608cb8f0c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "f192f194365b85dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Arquitetura de Computadores/Conteudo/11 - Lógica Digital.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 - Lógica Digital"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5370330810547
   },
   "right": {
     "id": "6de04416310685e5",
@@ -185,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,44 +216,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8095a6ecd0f90568",
+  "active": "f192f194365b85dd",
   "lastOpenFiles": [
-    "file:/home/vitoremanuel/Downloads/livros-estudos/README.md",
+    "Pasted image 20261018234333.png",
+    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018232913.png",
+    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018230907.png",
+    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018225903.png",
+    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018225718.png",
+    "Hardware/Arquitetura de Computadores/Arquitetura de Computadores.md",
+    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018224936.png",
+    "Hardware/Arquitetura de Computadores/Conteudo/11 - Lógica Digital.md",
+    "Hardware/Arquitetura de Computadores/imgs",
+    "Hardware/Circuitos Lógicos/Circuitos Lógicos.md",
     "README.md",
-    "Conhecimentos Gerais/Conhecimentos Gerais.md",
-    "Conhecimentos Gerais/Legislação de Informação (LGDP, LAI e etc)/Legislação de Informação (LGDP, LAI e etc).md",
-    "Conhecimentos Gerais/Linguagens Formais e Autômatos/Linguagens Formais e Autômatos.md",
-    "Conhecimentos Gerais/Vetores e Geometria Analítica/Vetores e Geometria Analítica.md",
-    "Conhecimentos Gerais/Sociologia/Sociologia.md",
-    "Conhecimentos Gerais/Sociologia",
-    "Conhecimentos Gerais/Química/Química.md",
-    "Conhecimentos Gerais/Probabilidade e Inferência/Probabilidade e Inferência.md",
-    "Conhecimentos Gerais/Português/Português.md",
+    "Desenvolvimento de Software/Python/Conteudo/01 - Pythonic Thinking (Pensamento Pythônico).md",
+    "Desenvolvimento de Software/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS.md",
+    "Desenvolvimento de Software/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS/Conteudo - CSS/01 -.md",
+    "Desenvolvimento de Software/SOLID e Boas Práticas/Conteudo/01 - Código Limpo.md",
+    "Desenvolvimento de Software/SOLID e Boas Práticas/SOLID e Boas Práticas.md",
+    "Desenvolvimento de Software/Python/Python.md",
+    "Desenvolvimento de Software/Java/Conteudo/01 - Introdução a computadores, internet e Java.md",
+    "Requisitos e Processos de Software/Testes de Software/Testes de Software.md",
+    "Desenvolvimento de Software/Java/Java.md",
+    "Conhecimentos Gerais/Matemática Elementar/Conteudo - Conjunto e Funções/01 - Noções de lógica.md",
     "Conhecimentos Gerais/Matemática Elementar/Matemática Elementar.md",
-    "Conhecimentos Gerais/História/História.md",
-    "Conhecimentos Gerais/Inglês/Inglês.md",
-    "Conhecimentos Gerais/História",
-    "Conhecimentos Gerais/Geometrica Euclidiana/Geometria Euclidiana.md",
-    "Conhecimentos Gerais/FMC/FMC.md",
-    "Conhecimentos Gerais/Filosofia/Filosofia.md",
-    "Conhecimentos Gerais/Física/Física.md",
-    "Conhecimentos Gerais/Filosofia",
-    "Conhecimentos Gerais/Estatística/Estatística.md",
-    "Conhecimentos Gerais/Cálculo Numérico/Cálculo Numérico.md",
-    "Conhecimentos Gerais/Cálculo/Cálculo.md",
-    "Conhecimentos Gerais/Análise Combinatória/Análise Combinatória.md",
-    "Conhecimentos Gerais/Álgebra Linear/Álgebra Linear.md",
-    "Game Dev/Game Dev.md",
-    "Game Dev/Tutorial Games/Tutorial Games.md",
-    "Game Dev/GameDesign e GamePattern/GameDesign e GamePattern.md",
-    "Requisitos e Processos de Software/Requisitos e Processos de Software.md",
-    "Game Dev/Tutorial Games",
-    "Game Dev/GameDesign e GamePattern",
-    "Game Dev",
-    "Machine Learning/LLMs e IA Generativa",
-    "Machine Learning/Visão Computacional",
-    "Machine Learning/Processamento de Linguagem Natural",
-    "Machine Learning/Machine Learning na Prática (ML em produção e MLOps)",
+    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/01 - Introdução.md",
+    "Requisitos e Processos de Software/Engenharia de Software/Engenharia de Software.md",
+    "Dados/Banco de Dados/Conteudo/01 - Bancos de dados e usuários debanco de dados.md",
+    "Dados/Banco de Dados/Banco de Dados.md",
+    "Redes/Redes de Computadores/Redes de Computadores.md",
+    "Redes/Redes de Computadores/Conteudo/01 - Redes de Computadores e a Internet.md",
+    "Hardware/Arquitetura de Computadores/Conteudo",
+    "Conhecimentos Gerais/Inglês/Conteudo/01.md",
+    "Conhecimentos Gerais/Matemática Elementar/Conteudo - Conjunto e Funções",
+    "Conhecimentos Gerais/Português/Conteudo/01.md",
+    "Conhecimentos Gerais/Inglês/Conteudo",
+    "Conhecimentos Gerais/Português/Conteudo",
+    "Dados/Banco de Dados/Conteudo",
+    "Desenvolvimento de Software/Java/Conteudo",
+    "Desenvolvimento de Software/Python/Conteudo",
+    "Desenvolvimento de Software/SOLID e Boas Práticas/Conteudo",
+    "Desenvolvimento de Software/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS/Conteudo - HTML/01 -.md",
+    "Desenvolvimento de Software/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS/Conteudo - CSS",
+    "file:/home/vitoremanuel/Downloads/livros-estudos/README.md",
     "Untitled.canvas"
   ]
 }

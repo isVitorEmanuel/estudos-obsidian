@@ -1,14 +1,14 @@
 Abaixo, deixarei as referências que utilizei para estudar *Banco de Dados*. São:
 
 - **Livros:**
-	- Java - Como Programar - Deitel < Inicial >;
-	- Effective Java - Addison-Wesley < Aprofundamento >;
-	- Modern Java in Action - Raoul-Gabriel Urma;
-	- Java Concurrency in Practice - Brian Goetz;
-	- Java Performance - The Definitive Guide - Scott Oaks;
-	- xUnit Test Patterns - Refactoring Test Code - Gerard Meszaros;
-	- Testes Automatizados de Software - Um Guia Pratico - Mauricio Aniche;
-	- TDD - Desenvolvimento Guiado por Testes - Kent Beck;
+	- Sistemas de Banco de Dados - Ramez Elmasri, Shamkant B. Navathe < Livro Base >;
+	- Head First SQL - O'Reilly < Aprofundamento >;
+	- Database System Concepts - Abraham, Silberschatz, Henry F < Complementar >;
+	- SQL Antipatterns - Bill Karwin < Aprofundamento >;
+	- SQL Performance Explained - Markus Winand < Aprofundamento >;
+	- NoSQL Distilled - Pramod J. Sadalage e Martin Fowler < Livro Base >;
+	- MongoDB - The Definitive Guide Powerful and Scalable Data Storage < Aprofundamento >;
+	- Graph Databases - OReilly < Aprofundamento >;
 	
 - **Tutoriais e Sites**:
 	- [Tutorial - SQL](https://sqlbolt.com/);
