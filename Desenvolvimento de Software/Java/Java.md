@@ -8,8 +8,8 @@ Abaixo, deixarei as referências que utilizei para estudar *Java*. São:
 	- Java Performance - The Definitive Guide - Scott Oaks < Aprofundamento >
 	
 - **Tutoriais e Sites**:
-	- [Doc - Java](https://dev.java/)
+	- [Tutorial - Java](https://docs.oracle.com/javase/tutorial/) < Inicial >
+	- [Doc - Java](https://dev.java/) < Inicial >
 	- [Doc - JavaSE - 25](https://docs.oracle.com/en/java/javase/25/docs/api/index.html)
-	- [Tutorial - Java](https://docs.oracle.com/javase/tutorial/)
 	- [Timeline - Java](https://javaalmanac.io/)
 	

@@ -1,7 +1,7 @@
 Abaixo, deixarei as referências que utilizei para estudar *Banco de Dados*. São:
 
 - **Livros:**
-	- Sistemas de Banco de Dados - Ramez Elmasri, Shamkant B. Navathe < Livro Base >;
+	- [x] Sistemas de Banco de Dados - Ramez Elmasri, Shamkant B. Navathe < Livro  >;
 	- Head First SQL - O'Reilly < Aprofundamento >;
 	- Database System Concepts - Abraham, Silberschatz, Henry F < Complementar >;
 	- SQL Antipatterns - Bill Karwin < Aprofundamento >;
