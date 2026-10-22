@@ -2,8 +2,8 @@
 Abaixo, deixarei as referências que utilizei para estudar *Engenharia de Software*. São:
 
 - **Livros:**
-	- Engenharia de software - Sommerville < Engenharia - Livro Base >;
-	- Engenharia de software - Pressman < Engenharia - Complementar >;
+	- [x] Engenharia de software - Sommerville < Engenharia - Livro Base >;
+	- [ ] Engenharia de software - Pressman < Engenharia - Complementar >;
 	- Clean Agile - Back to Basics - Robert Martin < Aprofundamento >;
 	- Kanban - David J. Anderson, Andrea Pinto < Aprofundamento >;
 	- Princípios De Análise e Projeto De Sistemas Com UML - Eduardo Bezerra < AProfundamento >;

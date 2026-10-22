@@ -201,7 +201,7 @@ Além disso, a **JVM** utiliza a interpretação com a **compilação just-in-ti
 <div align="center">
   <img src="Pasted image 20261020145427.png" width="75%">
   <br>
-  <em>Figura 3: Fase de execução no ambiente Java.</em>
+  <em>Figura 4: Fase de execução no ambiente Java.</em>
 </div>
 
 
