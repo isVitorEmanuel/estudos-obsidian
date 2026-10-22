@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requisitos e Processos de Software/Engenharia de Software/Conteudo/01 - Introdução.md",
+                "file": "Requisitos e Processos de Software/Engenharia de Software/Conteudo/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Introdução"
+              "title": "Untitled"
             }
           }
         ],
@@ -216,11 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8095a6ecd0f90568",
+  "active": "098af9441fc00b8e",
   "lastOpenFiles": [
+    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/01 - Introdução.md",
+    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/Untitled.md",
     "Requisitos e Processos de Software/Engenharia de Software/Conteudo/imgs/Pasted image 20261022144115.png",
     "Untitled.md",
-    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/01 - Introdução.md",
     "Untitled 1.md",
     "Requisitos e Processos de Software/Engenharia de Software/Conteudo/imgs/Pasted image 20261021190256.png",
     "Requisitos e Processos de Software/Engenharia de Software/Conteudo/imgs/Pasted image 20261021185731.png",
@@ -251,7 +252,6 @@
     "Desenvolvimento de Software/Python/imgs",
     "Desenvolvimento de Software/Python/Conteúdo - Inicial/Untitled",
     "Desenvolvimento de Software/Python/Python.md",
-    "Hardware/Arquitetura de Computadores/imgs/Pasted image 20261018234333.png",
     "Hardware/Arquitetura de Computadores/imgs",
     "Hardware/Circuitos Lógicos/Circuitos Lógicos.md",
     "Desenvolvimento de Software/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS/HTML, CSS, JS, TS, NodeJS, ExpressJS e NestJS.md",
