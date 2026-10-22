@@ -27,14 +27,14 @@
             "id": "098af9441fc00b8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Requisitos e Processos de Software/Engenharia de Software/Conteudo/Untitled.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "098af9441fc00b8e",
   "lastOpenFiles": [
+    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/02 - Processos de Software.md",
     "Requisitos e Processos de Software/Engenharia de Software/Conteudo/01 - Introdução.md",
-    "Requisitos e Processos de Software/Engenharia de Software/Conteudo/Untitled.md",
     "Requisitos e Processos de Software/Engenharia de Software/Conteudo/imgs/Pasted image 20261022144115.png",
     "Untitled.md",
     "Untitled 1.md",
